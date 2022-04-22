@@ -45,7 +45,9 @@ body main {
   height: 100%;
   background-color: rgba(129, 6, 160, 0.479);
 }
-
+.none{
+  display: none;
+}
 .content {
   grid-area: item2;
   padding-bottom: 20px;
